@@ -47718,7 +47718,7 @@ M:function(a,b){var s=null,r=t.p
 return M.f3(s,T.Ap(H.a([new X.qi(s),T.Ap(H.a([new D.iJ("Research",s),T.hw(s,s,60),new D.iJ("Side projects",s),T.hw(s,s,60),new D.iJ("CV",s),T.hw(s,s,60),new D.iJ("Misc.",s)],r),C.b1,C.ie)],r),C.eG,C.az),s,s,100,s,s,s)}}
 X.qi.prototype={
 M:function(a,b){var s=null
-return T.hw(new U.pB(M.aez(s,s,new L.ov("assets/navbar_logo.jpg",s,s)),s),80,150)}}
+return T.hw(new U.pB(M.aez(s,s,new L.ov("assets/navbar_logo_low_res.jpg",s,s)),s),100,150)}}
 L.yF.prototype={
 M:function(a,b){var s=null
 return M.f3(s,T.Ap(H.a([new B.xP(L.a4g(C.mu),new L.OS(),s),new X.qi(s)],t.p),C.eG,C.az),s,s,80,s,s,s)}}
