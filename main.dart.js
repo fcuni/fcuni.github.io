@@ -47914,7 +47914,7 @@ F.a_x.prototype={
 $0:function(){return new B.mr(new N.bB(null,t.Fs))},
 $S:304}
 F.yL.prototype={
-M:function(a,b){return new S.q9(new D.yj(null),"My Webpage",X.a5V(null,C.il,K.ds(b).ar.Qs("Fira Sans")),null)}}
+M:function(a,b){return new S.q9(new D.yj(null),"F.Cunillera | Physics",X.a5V(null,C.il,K.ds(b).ar.Qs("Fira Sans")),null)}}
 Z.DI.prototype={}
 Z.W0.prototype={
 $3:function(a,b,c){return this.a},
@@ -49767,7 +49767,7 @@ C.m8=new P.aH(-38e3)
 C.bk=new V.bn(0,0,0,0)
 C.m9=new V.bn(16,0,16,0)
 C.ma=new V.bn(24,0,24,0)
-C.mb=new V.bn(30,60,0,0)
+C.mb=new V.bn(30,45,0,0)
 C.mc=new V.bn(4,4,4,4)
 C.md=new V.bn(70,60,70,60)
 C.bl=new V.bn(8,8,8,8)
